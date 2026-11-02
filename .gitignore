@@ -18,3 +18,4 @@ draft_v1/
 
 # the one-off upload helper
 upload_to_github.sh
+*.pt
